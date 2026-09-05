@@ -22,30 +22,6 @@
 - TorrServer
 - остальных плагинов
 
-## Установка
-
-1. Разместите `local-no-ads.js` в этом репозитории.
-2. Включите GitHub Pages:
-   - `Settings`
-   - `Pages`
-   - `Deploy from a branch`
-   - Branch: `main`
-   - Folder: `/(root)`
-3. После публикации адрес плагина будет иметь вид:
-
-```text
-https://USERNAME.github.io/REPOSITORY/local-no-ads.js
-```
-
-4. В Lampa откройте:
-
-```text
-Настройки → Расширения → Добавить плагин
-```
-
-5. Вставьте URL `local-no-ads.js`.
-6. Перезапустите Lampa.
-
 ## Проверка работы
 
 При успешной загрузке в консоли Lampa появится:
